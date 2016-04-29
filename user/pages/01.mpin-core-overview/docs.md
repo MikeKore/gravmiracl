@@ -22,3 +22,5 @@ Open the following URL in a browser
 `http://<ip address of your server>:8005`   
 
 See Getting Started to perform the next steps.
+
+Some extra text
